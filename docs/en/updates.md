@@ -26,3 +26,4 @@ We are making some changes:
 24. Nodes [remote-01.quan-project.com](https://remote-01.quan-project.com) and [remote-02.quan-project.com](https://remote-02. quan-project.com) were mirrored and updated to version q1v-soft-node:001, explorer node [https://expl-q1v-node.quanproject.com](https://expl-q1v-node. quanproject.com) has also been updated to version q1v-soft-node:001. New blockchain backup created.
 25. remote-001 spread to remote-01, remote-002 mirrored to remote-02
 26. hydra removed as seed, use [remote-01.quan-project.com](https://remote-01.quan-project.com) or [remote-02.quan-project.com](https:/ /remote-02.quan-project.com)
+27. the community's lack of interest in keeping the legacy blockchain online begins the countdown to its shutdown. Notifications have been made since April on the matter.
