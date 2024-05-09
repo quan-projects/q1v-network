@@ -27,3 +27,4 @@ We are making some changes:
 25. remote-001 spread to remote-01, remote-002 mirrored to remote-02
 26. hydra removed as seed, use [remote-01.quan-project.com](https://remote-01.quan-project.com) or [remote-02.quan-project.com](https:/ /remote-02.quan-project.com)
 27. the community's lack of interest in keeping the legacy blockchain online begins the countdown to its shutdown. Notifications have been made since April on the matter.
+28. shutdown of the legacy blockchain from our infrastructure will be on 05/17/2024, and after shutdown a backup will be created and made available. Q1V NetWork will no longer support the legacy blockchain of the late NiobioCash as of 05/17/2024
