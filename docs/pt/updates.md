@@ -27,3 +27,5 @@ Estamos realizando algumas mudanças:
 25. remote-001 espalhado para remote-01, remote-002 espelhado para remote-02
 26. hydra removido como seed, utilize [remote-01.quan-project.com](https://remote-01.quan-project.com) ou [remote-02.quan-project.com](https://remote-02.quan-project.com)
 27. a falta de interesse da comunidade em manter o blockchain legado online inicia a contagem regressiva para desligamento do mesmo. Notificações estão sendo realizadas desde o mês de Abril sobre o assunto.
+28. desligamento do blockchain legado de nossa infraestrutura será dia 17/05/2024, e apos desligamento um backup será criado e disponibilizado.
+Q1V NetWork não irá mais suportar o blockchain legado da finada NiobioCash a partir de 17/05/2024
